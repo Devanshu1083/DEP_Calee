@@ -74,24 +74,14 @@ for three different types of users - admin, faculty, and student.
     > app]{.underline}](https://play.google.com/store/apps/details?id=com.calee.iitropar)
     > from the Play Store.
 
-2.  Login using google account as either a student, faculty member, or
-    > admin.
+2.  Login using google account as either a student, faculty member, or admin.
 
-3.  Based on Your College account you will be logged on into respective
-    > homepage.
+3.  Based on Your College account you will be logged on into respective homepage.
 
-4.  Students can view their class schedules, add personal events to
-    > their calendars, view mess menus, and access college links.
+4.  Students can view their class schedules, add personal events to their calendars, view mess menus, and access college links.
 
-5.  Faculty can view their course schedules, schedule extra classes for
-    > selected students, check for conflicts in student schedules, and
-    > view their own calendars.
+5.  Faculty can view their course schedules, schedule extra classes for selected students, check for conflicts in student schedules, and view their own calendars.
 
-6.  Admins can add or delete courses for faculty members, manage student
-    > course information, declare holidays, and add college-wide events.
+6.  Admins can add or delete courses for faculty members, manage student course information, declare holidays, and add college-wide events.
 
-7.  Explore the app\'s features and use it to manage your college
-    > schedules and events easily.
-
-**More Details :**
-[[DEP.T05.Calee_ppt3_Documentation2022]{.underline}](https://docs.google.com/presentation/d/1eZIDpbemzWo93SkmN79nIsC7fwTeIO3_zcEaPDjzUg8/edit?usp=sharing)
+7.  Explore the app\'s features and use it to manage your college schedules and events easily.
